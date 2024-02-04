@@ -1,7 +1,7 @@
-### Hi there 👋
-### This is BinTaoMa!
+### Hi there 👋! This is BinTaoMa!
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/BintaoMa)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mbt20031107@gmail.com)
+
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
